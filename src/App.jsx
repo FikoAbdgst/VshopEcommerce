@@ -3,7 +3,7 @@ import "./App.css";
 import Header from "./components/Header";
 import ProductList from "./features/productList/ProductList";
 import CartModal from "./features/cart/CartModal";
-import WhistlistModal from "./features/whistlist/whistlistModal";
+import WhistlistModal from "./features/whistlist/WhistlistModal";
 import FilterModal from "./features/filter/FilterModal";
 import DetailModal from "./features/detail/DetailModal";
 import Footer from "./components/Footer";
